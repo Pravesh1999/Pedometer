@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pedometer</string>
+    <string name="textview">btnStart</string>
+</resources>
